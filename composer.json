@@ -1,6 +1,6 @@
 {
     "name": "spotzee-marketing/spotzee-php",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "description": "Spotzee Omnichannel Marketing Software library for PHP",
     "homepage": "https://github.com/spotzee-marketing/spotzee-php",
     "autoload": {
